@@ -24,7 +24,9 @@ This system detects high temperature and smoke levels using IoT sensors and send
 ## Folder Structure
 
 python-backend/ # main backend scripts
+
 php-bridge/ # legacy PHP bridge
+
 .gitignore
 README.md
 
